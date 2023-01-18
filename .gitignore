@@ -261,8 +261,3 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
-
-# Folders
-/sudoku_solver/bin
-/sudoku_solver/obj
-.vs/
